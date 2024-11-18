@@ -17,7 +17,9 @@ Updates to the design included new entities such as "Parent," "Classroom", "Exam
 
 <br>
 
-<img src="images\sdb_2.png" alt="ER Diagram" title="Entity-Relationship Diagram" width="500">
+<p align="center">
+<img src="images\sdb_2.png" alt="ER Diagram" alt="Centered Image" title="Entity-Relationship Diagram" width="500">
+</p>
 
 <br>
 
