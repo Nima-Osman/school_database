@@ -1,5 +1,5 @@
 # School Database Management System
-## Building school DBMS using R 
+## Building school DBMS using mySQL
 
 ---
 
@@ -13,7 +13,7 @@ The project team engaged in requirements-gathering sessions to identify the clie
 
 <br>
 
-Updates to the design included new entities such as "Parent," "Classroom", "Exam," and "Exam Result". See image below of database created using R.
+Updates to the design included new entities such as "Parent," "Classroom", "Exam," and "Exam Result". See image below of database created using mySQL.
 
 <br>
 
