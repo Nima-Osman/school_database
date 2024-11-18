@@ -9,7 +9,9 @@
 The project team engaged in requirements-gathering sessions to identify the client’s needs, focusing on key data entities and relationships. An Entity-Relationship (ER) diagram (Figure 1) was created using Chen's notation, and data types were specified for consistency. 
 <br>
 
+<p align="center">
 <img src="images\sdb_1.png" alt="ER Diagram" alt="Centered Image" title="Entity-Relationship Diagram" width="500">
+</p>
 
 <br>
 
@@ -61,7 +63,9 @@ Logical data modeling for school databases faces challenges like scalability, fl
   
 Logical models focus on business logic, while physical models optimize data storage and implementation. Figure 3 highlights the hierarchy of model types, emphasizing their distinct but complementary roles.
 
+<p align="center">
 <img src="images\sdb_3.png" alt="ER Diagram" alt="Centered Image" title="Entity-Relationship Diagram" width="500">
+</p>
 
 
 
