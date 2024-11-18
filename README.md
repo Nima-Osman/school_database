@@ -21,7 +21,7 @@ Updates to the design included new entities such as "Parent," "Classroom", "Exam
 
 <br>
 
-[For code](path/to/another-file.md)
+[For code click here](mysql_code.md)
 
 
 Normalisation techniques were applied to reduce redundancy and maintain data integrity. The design decisions were justified based on client requirements, industry standards, and academic principles, proposing a MySQL solution to improve decision-making and academic outcomes. However, the report could be more thorough in discussing theoretical aspects and presenting the implementation plan.
